@@ -8,4 +8,3 @@
 
 📫 Reach me at: [LinkedIn](https://linkedin.com/in/yayan-kurniawan) | [Portfolio](https://github.com/yayan-kurniawan)
 
-![Yayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yayan-kurniawan&show_icons=true&theme=radical)
